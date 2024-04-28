@@ -79,8 +79,19 @@ del programa.
 *(I) Interface Segregation Principle - Principio de
 Segregación de Interfaz*
 ---------------------------------------------------
-
+Establece que una clase no debe ser obligada a
+depender de métodos que no utiliza. En lugar de
+tener una interfaz única que contenga todos los
+métodos posibles, es mejor dividir las interfaces
+en conjuntos más pequeños y específicos que sean
+relevantes para las clases que los implementan.
 
 *(D) Dependency Inversion Principle - Principio de
 Inversión de Dependencia*
 ---------------------------------------------------
+Establece que los módulos de alto nivel no deben
+depender de módulos de bajo nivel, sino que ambos
+deben depender de abstracciones. Además, las
+abstracciones no deben depender de los detalles,
+sino que los detalles deben depender de las
+abstracciones.

@@ -1,4 +1,4 @@
-package ClaseSOLID.S_ResponsabilidadUnica;
+package ClaseSOLID.S_RespUnica_Sol;
 
 public class Square extends Polygon {
 
@@ -18,6 +18,10 @@ public class Square extends Polygon {
 
     public double getArea() {
         return Math.pow(side, 2);
+    }
+
+    public void mostrarDatos(){
+        System.out.println("Lado = " + side + " cm");
     }
 
 }
