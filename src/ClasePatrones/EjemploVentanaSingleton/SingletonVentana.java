@@ -1,4 +1,4 @@
-package ClasePatrones.EjemploVentanaSingleton;
+package EjemploVentanaSingleton;
 /**
  *
  * @author giane

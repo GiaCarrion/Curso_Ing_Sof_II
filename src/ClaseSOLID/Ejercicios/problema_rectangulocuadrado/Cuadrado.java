@@ -1,4 +1,4 @@
-package ClaseSOLID.problema_rectangulocuadrado;
+package ClaseSOLID.Ejercicios.problema_rectangulocuadrado;
 
 /**
  *

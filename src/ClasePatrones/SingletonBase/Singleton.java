@@ -1,4 +1,4 @@
-package ClasePatrones.SingletonBase;
+package SingletonBase;
 
 public class Singleton {
     private static Singleton nuevaInstancia = null;

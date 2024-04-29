@@ -1,4 +1,4 @@
-package ClaseSOLID.problema_AnimalProblem;
+package ClaseSOLID.Ejercicios.problema_AnimalProblem;
 
 public class Perro implements Animal{
 

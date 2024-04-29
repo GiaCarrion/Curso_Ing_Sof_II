@@ -29,7 +29,7 @@ public class Main {
         s = Singleton.getNuevaInstancia();
         s1 = Singleton.getNuevaInstancia();
         s2 = Singleton.getNuevaInstancia();
-        s3 = Singleton.getNuevaInstancia();
+        s3 = Singleton.g etNuevaInstancia();
         System.out.println(s );
         System.out.println(s1 );
         System.out.println(s2 );
@@ -38,3 +38,5 @@ public class Main {
 }
 ```
 ## **2) Factory Method:**
+Define una interfaz para crear un objeto pero deja que las subclases decidan que clase instanciar. Delega la función de crear objetos a las subclases.
+

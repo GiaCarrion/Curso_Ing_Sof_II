@@ -1,4 +1,4 @@
-package ClasePatrones.SingletonBase;
+package SingletonBase;
 
 public class Main {
     public static void main(String[] args) {
