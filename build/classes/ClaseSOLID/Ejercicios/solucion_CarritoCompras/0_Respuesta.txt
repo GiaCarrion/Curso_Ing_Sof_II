@@ -1,0 +1,5 @@
+* Viola el Principio de Inversión de Dependencias, porque mi
+Clase CarritoCompras depende de clases de bajo nivel.
+* Es necesario implementar una interfaz de MetodoPago para
+elegir la forma de pago.
+* Crear una interfaz de Persistencia para guardar en la BD. 
